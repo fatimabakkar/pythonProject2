@@ -4,9 +4,10 @@ def calculate_sum_and_average(grades):
     return total_sum, average
 
 # Example usage:
-grades = [31, 89, 89, 41, 95]
+grades = [31, 89, 90, 41, 95]
 
 
 total_sum, average = calculate_sum_and_average(grades)
 print("Sum of grades:", total_sum)
+
 print("Average grade:", average)
