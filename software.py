@@ -4,7 +4,7 @@ def calculate_sum_and_average(grades):
     return total_sum, average
 
 # Example usage:
-grades = [31, 89, 89, 60, 95]
+grades = [31, 89, 89, 50, 95]
 
 
 total_sum, average = calculate_sum_and_average(grades)
